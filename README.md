@@ -1,4 +1,4 @@
-# Day-6-Project
+# Project 6
 ## Reeborg's World - Maze Solver
 
 A Python solution for navigating mazes in Reeborg's World using the right-hand wall-following algorithm.
